@@ -40,5 +40,3 @@ $(function() {
 	$("body").on("click", "textarea", function() { this.select(); });
 });
 
-
-}
